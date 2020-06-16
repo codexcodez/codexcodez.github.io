@@ -1,9 +1,9 @@
 # config.yml
 backend:
   name: github
-  repo: acercodez/acercodez.github.io
+  repo: codexcodez/codexcodez.github.io
   branch: master
-  site_domain: acercodez.netlify.com
+  site_domain: codexcodez.netlify.com
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
